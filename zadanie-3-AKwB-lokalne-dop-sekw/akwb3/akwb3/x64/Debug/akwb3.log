@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\Tomasz\Desktop\studia\VS 2022\AKwB\zadanie 3 AKwB lokalne dop sekw\akwb3\akwb3\Źródło.cpp(198,24): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  akwb3.vcxproj -> C:\Users\Tomasz\Desktop\studia\VS 2022\AKwB\zadanie 3 AKwB lokalne dop sekw\akwb3\x64\Debug\akwb3.exe
